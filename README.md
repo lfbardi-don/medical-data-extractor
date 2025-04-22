@@ -98,11 +98,6 @@ print(df.head())
 
 ## 🤝 Contributing
 
-Feel free to open an issue or submit a pull request. Suggestions for new features or bug fixes are welcome.
+Feel free to open an issue or submit a pull request. Suggestions are welcome.
 
 ---
-
-## 📄 License
-
-Released under the [MIT License](LICENSE).
-
